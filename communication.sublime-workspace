@@ -1,0 +1,2548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"measna",
+				"measurementName\tabc"
+			],
+			[
+				"measu",
+				"measurementName\tabc"
+			],
+			[
+				"Masunam",
+				"MeasurementName\tabc"
+			],
+			[
+				"Send",
+				"SendMeasurement\t(main.go)"
+			],
+			[
+				"Meas",
+				"Measurements\tabc"
+			],
+			[
+				"Mname",
+				"MeasurementName\tabc"
+			],
+			[
+				"Measm",
+				"Measurement\tabc"
+			],
+			[
+				"Mea",
+				"Measurements\tabc"
+			],
+			[
+				"Mes",
+				"Measurement\tabc"
+			],
+			[
+				"utc_",
+				"utc_nanoseconds\tabc"
+			],
+			[
+				"meas",
+				"measurement\tabc"
+			],
+			[
+				"relat",
+				"relative_seconds_now\t(waylon_socket_client.py)"
+			],
+			[
+				"dat",
+				"datetime.datetime.now\tabc"
+			],
+			[
+				"file",
+				"file_exists\tabc"
+			],
+			[
+				"diffuse",
+				"diffuseReflectionConst\t(lit.vert)"
+			],
+			[
+				"rendergeo",
+				"renderTexturedGeometry\t(geometry.cpp)"
+			],
+			[
+				"floonorm",
+				"floorNormalSamplerDescSet\tabc"
+			],
+			[
+				"texcoo",
+				"texCoord\tabc"
+			],
+			[
+				"sin",
+				"sin3RootLookup8Bit"
+			],
+			[
+				"du",
+				"decayDuration"
+			],
+			[
+				"sustai",
+				"sustainVolume"
+			],
+			[
+				"crea",
+				"createPipeline"
+			],
+			[
+				"uint32",
+				"uint32_t\t(shadows.cpp)"
+			],
+			[
+				"basph",
+				"basePhaseUs\tabc"
+			],
+			[
+				"timdel",
+				"timeDeltaSEase\tabc"
+			],
+			[
+				"pusconst",
+				"pushConstants\tabc"
+			],
+			[
+				"puscons",
+				"pushConstantSize\tabc"
+			],
+			[
+				"floonor",
+				"floorNormalSamplerDescSetLayout\tabc"
+			],
+			[
+				"VK_FOR",
+				"VK_FORMAT_B8G8R8A8_UNORM\t(graphics.h)"
+			],
+			[
+				"sampldes",
+				"samplerDescSet\tabc"
+			],
+			[
+				"VKATT_LO",
+				"VK_ATTACHMENT_LOAD_OP_DONT_CARE\tabc"
+			],
+			[
+				"VKSAMPCOUN",
+				"VK_SAMPLE_COUNT_1_BIT\tabc"
+			],
+			[
+				"VKSMACOUN",
+				"VK_SAMPLE_COUNT_1_BIT\tabc"
+			],
+			[
+				"VKIMAOPTT",
+				"VK_IMAGE_LAYOUT_COLOR_ATTACHMENT_OPTIMAL\tabc"
+			],
+			[
+				"surfac",
+				"surfaceFormat\tabc"
+			],
+			[
+				"VKSAMPLCOU",
+				"VK_SAMPLE_COUNT_1_BIT\t(ShadowMap.h)"
+			],
+			[
+				"VK_SAMPL",
+				"VK_SAMPLE_COUNT_1_BIT\t(shadows.cpp)"
+			],
+			[
+				"VKSAMPLECOUN",
+				"VK_SAMPLE_COUNT_1_BIT\t(graphics_create.cpp)"
+			],
+			[
+				"fill",
+				"full_reindex_interval_seconds\tabc"
+			],
+			[
+				"text",
+				"get_completions_from_text"
+			],
+			[
+				"compl",
+				"completion\tabc"
+			],
+			[
+				"buffer",
+				"buffer_id\tabc"
+			],
+			[
+				"sourad",
+				"sourceRadius\t(gui.cpp)"
+			],
+			[
+				"subsour",
+				"subsourceModeIsRing\t(gui.cpp)"
+			],
+			[
+				"vulk",
+				"vulkan.h\t(graphics.h)"
+			],
+			[
+				"queufamil",
+				"queueFamilyIndex\t(graphics.h)"
+			],
+			[
+				"imgui_",
+				"imgui_impl_sdl.h\t(main.cpp)"
+			],
+			[
+				"Sample",
+				"sampler2D"
+			],
+			[
+				"shamaps",
+				"shadowMaps\tabc"
+			],
+			[
+				"shadomap",
+				"shadowMaps\tabc"
+			],
+			[
+				"SDL_asset",
+				"SDL_assert_release\tabc"
+			],
+			[
+				"geom",
+				"geometry.h\t(shadows.cpp)"
+			],
+			[
+				"matrdesc",
+				"matricesDescSet\tabc"
+			],
+			[
+				"matrbufmem",
+				"matricesBufferMemory\tabc"
+			],
+			[
+				"matrbumem",
+				"matricesBufferMemory\tabc"
+			],
+			[
+				"mabufmem",
+				"matrixBufferMemories\tabc"
+			],
+			[
+				"mdes",
+				"matrixDescriptorSets\tabc"
+			],
+			[
+				"SHADOWMA",
+				"SHADOWMAP_COUNT\t(scene.cpp)"
+			],
+			[
+				"VK_FORM",
+				"VK_FORMAT_R32G32B32_SFLOAT\tabc"
+			],
+			[
+				"tranor",
+				"transformedNormal4\tabc"
+			],
+			[
+				"tran",
+				"transformedNormal\tabc"
+			],
+			[
+				"SDLWI",
+				"SDL_WINDOW_VULKAN\tabc"
+			],
+			[
+				"Drawca",
+				"DrawCallUniform\tabc"
+			],
+			[
+				"GRa",
+				"GraphicsPipeline\t(GraphicsPipeline.cpp)"
+			],
+			[
+				"gra",
+				"GraphicsFoundation"
+			],
+			[
+				"perfdescbufs",
+				"perFrameDescriptorBuffers\tabc"
+			],
+			[
+				"dracadesc",
+				"drawCallDescriptorBinding\t(GraphicsPipeline.h)"
+			],
+			[
+				"desset",
+				"descriptorSets\tabc"
+			],
+			[
+				"perfram",
+				"perFrameDescriptorSets\t(GraphicsPipeline.h)"
+			],
+			[
+				"VkDescrip",
+				"VkDescriptorPool\t(GraphicsPipeline.h)"
+			],
+			[
+				"graphi",
+				"graphicsQueue\t(GraphicsFoundation.h)"
+			],
+			[
+				"fir",
+				"firstPersonMode\t(input.cpp)"
+			],
+			[
+				"hand",
+				"handleMouseMotion\t(input.cpp)"
+			],
+			[
+				"unifor",
+				"uniformBufferMemory\tabc"
+			],
+			[
+				"SDL_WINDOW",
+				"SDL_WINDOW_ALLOW_HIGHDPI\t(platform.cpp)"
+			],
+			[
+				"VKSUCCE",
+				"VK_SUCCESS"
+			],
+			[
+				"VkDevic",
+				"VkDeviceMemory\t(GraphicsPipeline.h)"
+			],
+			[
+				"unifo",
+				"uniformBuffersMemory\tabc"
+			],
+			[
+				"swachasi",
+				"swapchainSize\tabc"
+			],
+			[
+				"creabuff",
+				"createVkBuffer\t(GraphicsPipeline.h)"
+			],
+			[
+				"depthtesen",
+				"depthTestingEnabled\t(GraphicsPipeline.cpp)"
+			],
+			[
+				"depthtsenab",
+				"depthTestingEnabled\t(GraphicsPipeline.cpp)"
+			],
+			[
+				"Draw",
+				"DrawCall.h\t(graphics.cpp)"
+			],
+			[
+				"comm",
+				"commandBuffers\tabc"
+			],
+			[
+				"Gra",
+				"GraphicsFoundation\tabc"
+			],
+			[
+				"graph",
+				"graphicsQueue\tabc"
+			],
+			[
+				"SDL_assert",
+				"SDL_assert_release\tabc"
+			],
+			[
+				"deviceE",
+				"deviceExtensions\tabc"
+			],
+			[
+				"atdes",
+				"attribDesc"
+			],
+			[
+				"binddes",
+				"bindingDesc"
+			],
+			[
+				"fun",
+				"function-def"
+			],
+			[
+				"par",
+				"local_proc_3(local_param_1: int, local_param_2: float)\t TestFile.jai"
+			],
+			[
+				"f",
+				"file_proc_3(file_param_1: float, file_param_2: int)\t TestFile.jai"
+			],
+			[
+				"de",
+				"definition_pattern"
+			],
+			[
+				"pro",
+				"lproc3(var: int) -> s32\t TestFile.jai"
+			],
+			[
+				"g",
+				"gproc3(var: int, var2: float)\t TestFile.jai"
+			],
+			[
+				"nonco",
+				"non_comment"
+			],
+			[
+				"jaicone",
+				"jai_content"
+			],
+			[
+				"meta",
+				"meta_scope"
+			],
+			[
+				"func",
+				"function-definition-parameters"
+			],
+			[
+				"meta_scope",
+				"meta_content_scope"
+			],
+			[
+				"assi",
+				"assignment-operator"
+			],
+			[
+				"ass",
+				"assigned-type"
+			],
+			[
+				"iden",
+				"identifier-wrapper"
+			],
+			[
+				"con",
+				"constant-test"
+			],
+			[
+				"new",
+				"new-identifier-type"
+			],
+			[
+				"r",
+				"RESPAWNNOPARAMS() \tjai.jai"
+			],
+			[
+				"forma",
+				"formatted_params"
+			],
+			[
+				"ud",
+				"updaterThread"
+			],
+			[
+				"search",
+				"search_input\tabc"
+			],
+			[
+				"inter",
+				"interpolated\tabc"
+			],
+			[
+				"middl",
+				"middle_gradient\tabc"
+			],
+			[
+				"martra",
+				"market_trade\tabc"
+			],
+			[
+				"mark",
+				"market_trades\t(kraken.py)"
+			],
+			[
+				"get",
+				"get_kraken_pair_code\tabc"
+			],
+			[
+				"page",
+				"page_html\tabc"
+			],
+			[
+				"MBC",
+				"MBC_NONE\tabc"
+			],
+			[
+				"carttype",
+				"cart_types\tabc"
+			],
+			[
+				"robinsample",
+				"robingb_read_next_audio_sample(&l_8\tabc"
+			],
+			[
+				"curre",
+				"current_step\tabc"
+			],
+			[
+				"ste",
+				"step_length_in_cycles\tabc"
+			],
+			[
+				"sample_buff",
+				"sample_buffer_size\tabc"
+			],
+			[
+				"sample_",
+				"sample_buffer\tabc"
+			],
+			[
+				"readfil",
+				"read_file_function_ptr\tabc"
+			],
+			[
+				"AUDIO",
+				"AUDIO_SAMPLE_RATE\tabc"
+			],
+			[
+				"perso",
+				"person_counts\tabc"
+			],
+			[
+				"sweep",
+				"sweep_number\tabc"
+			],
+			[
+				"rombanco",
+				"rom_bank_count\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "record_connectivity/platform_linux.go",
+			"settings":
+			{
+				"buffer_size": 79,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "record_connectivity/platform_darwin.go",
+			"settings":
+			{
+				"buffer_size": 926,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "record_connectivity/main.go",
+			"settings":
+			{
+				"buffer_size": 1377,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"LightAndShadow",
+					""
+				],
+				[
+					"LightAndShadow",
+					"Build & Run"
+				]
+			],
+			[
+				"LightAndShadow",
+				"Build & Run"
+			]
+		],
+		[
+			[
+				[
+					"LightAndShadow",
+					""
+				],
+				[
+					"LightAndShadow",
+					"Build & Run"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"LightAndShadow",
+				"Build & Run"
+			]
+		],
+		[
+			[
+				[
+					"LightAndShadow",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"LightAndShadow",
+				""
+			]
+		],
+		[
+			[
+				[
+					"LightAndShadow - Build",
+					""
+				],
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				]
+			],
+			[
+				"LightAndShadow - Build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"arith",
+				"Arithmetic"
+			],
+			[
+				"syntjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"synpy",
+				"Set Syntax: Python"
+			],
+			[
+				"syntbas",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"snypyth",
+				"Set Syntax: Python"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"sync++",
+				"Set Syntax: C++"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"syntg",
+				"Set Syntax: Go"
+			],
+			[
+				"setyjai",
+				"Set Syntax: Jai"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"syntgo",
+				"Set Syntax: Go"
+			],
+			[
+				"syngo",
+				"Set Syntax: Go"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"packinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"jai",
+				"JaiTools: Read Me"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"syntC++",
+				"Set Syntax: C++"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacremov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"pacinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"pacremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"snyc++",
+				"Set Syntax: C++"
+			],
+			[
+				"oprepo",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"packremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"operep",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"syntjai",
+				"Set Syntax: Jai"
+			],
+			[
+				"synjai",
+				"Set Syntax: Jai"
+			],
+			[
+				"synpla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntpython",
+				"Set Syntax: Python"
+			],
+			[
+				"syntc++",
+				"Set Syntax: C++"
+			],
+			[
+				"syntext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"opere",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"operepo",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"oper",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"openrep",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"oprep",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"pack instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"pac re",
+				"Package Control: Remove Package"
+			],
+			[
+				"uicol",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uicolo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"syntpyth",
+				"Set Syntax: Python"
+			],
+			[
+				"openre",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"syntc#",
+				"Set Syntax: C#"
+			],
+			[
+				"uic",
+				"UI: Select Color Scheme"
+			],
+			[
+				"synt py",
+				"Set Syntax: Python"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Deviot: ",
+				"Deviot: New Sketch"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"pacrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacli",
+				"Package Control: List Packages"
+			],
+			[
+				"pacre",
+				"Package Control: Remove Package"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"syntsw",
+				"Set Syntax: Swift"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"synt plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syt c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sytpy",
+				"Set Syntax: Python"
+			],
+			[
+				"syntpyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"blam",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"open",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"repos",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"synt c++",
+				"Set Syntax: C++"
+			],
+			[
+				"packinstl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"syntplan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"packdis",
+				"Package Control: Disable Package"
+			],
+			[
+				"syntplain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"packaginst",
+				"Package Control: Install Package"
+			],
+			[
+				"paclist",
+				"Package Control: List Packages"
+			],
+			[
+				"packinstalpa",
+				"Package Control: Install Package"
+			],
+			[
+				"synt late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"open rep",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synthtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt c",
+				"Set Syntax: C++"
+			],
+			[
+				"openrepo",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"sytnhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntpy",
+				"Set Syntax: Python"
+			],
+			[
+				"syjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"open re",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"repo",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"open repo",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"sublimmer",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"synt pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"synt C++",
+				"Set Syntax: C++"
+			],
+			[
+				"arit",
+				"Arithmetic"
+			],
+			[
+				"sytc++",
+				"Set Syntax: C++"
+			],
+			[
+				"cC++",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"synt",
+				"Set Syntax: C++"
+			],
+			[
+				"synt c+",
+				"Set Syntax: C++"
+			],
+			[
+				"synt plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"synt htlm",
+				"Set Syntax: HTML"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 211.0,
+		"history":
+		[
+			"f",
+			"sublime.active_view()",
+			"sublime"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/storage/server/src/record_connectivity/linux.go",
+		"/Volumes/storage/server/src/record_connectivity/darwin.go",
+		"/Volumes/storage/server/src/record_connectivity/macos.go",
+		"/Volumes/storage/server/src/record_connectivity/main.go",
+		"/Users/robin/projects/cmdline/record_bmo_internet_access.py",
+		"/Users/robin/projects/cmdline/waylon_socket_client.py",
+		"/Volumes/storage/server/scripts_repo/waylon_socket_server.py",
+		"/Volumes/storage/server/src/waylon_socket/main.go",
+		"/Users/robin/.bash_profile",
+		"/Users/robin/projects/cmdline/inst.py",
+		"/Users/robin/.pdir/codes.txt",
+		"/Volumes/storage/server/hello/hello.go",
+		"/Volumes/storage/server/scripts_repo/waylon_socket_client.py",
+		"/Volumes/storage/server/scripts_repo/record_storage_info.py",
+		"/Volumes/storage/server/scripts_repo/record_internet_access.py",
+		"/Volumes/storage/server/scripts_repo/record_cpu_usage.py",
+		"/Volumes/storage/server/scripts_repo/record_cpu_temp.py",
+		"/Volumes/storage/server/scripts_repo/db_access.py",
+		"/Users/robin/test.go",
+		"/Users/robin/hello/hello.go",
+		"/Users/robin/projects/cmdline/video_sizes.py",
+		"/Users/robin/python3_cron.sh",
+		"/tmp/crontab.hNUXpnBi6m",
+		"/tmp/crontab.5u7xGu429W",
+		"/Volumes/storage/server/scripts_repo/client_test.py",
+		"/Volumes/storage/server/scripts_repo/server_test.py",
+		"/Users/robin/projects/cmdline/record_bmo_wifi_access.py",
+		"/Volumes/storage/server/backup_influxdb.sh",
+		"/Volumes/storage/server/scripts_repo/record_random.py",
+		"/Users/robin/projects/cmdline/rename.py",
+		"/Users/robin/.pdir/-notes.txt",
+		"/Users/robin/projects/cpp_engine/gfx.cpp",
+		"/Users/robin/projects/cmdline/drive_speed.sh",
+		"/Users/robin/projects/synth/synth/synth.ino",
+		"/Users/robin/projects/gb/RobinGB/memory.c",
+		"/Users/robin/Desktop/quiz/notes.txt",
+		"/Users/robin/Desktop/quiz/q-space.txt",
+		"/Users/robin/Desktop/quiz/a-pokemon.txt",
+		"/Users/robin/Desktop/quiz/q-science.txt",
+		"/Users/robin/Desktop/quiz/q-lyrics.txt",
+		"/Users/robin/Desktop/quiz/q-general.txt",
+		"/Users/robin/Desktop/waylon-setup.txt",
+		"/Users/robin/Desktop/entry for fstab.txt",
+		"/Users/robin/Desktop/smb_backup.conf",
+		"/Users/robin/Desktop/DnD/dragon age/dragon age.txt",
+		"/Users/robin/Desktop/quiz/q-pokemon.txt",
+		"/Users/robin/Desktop/quiz audio/q-lyrics",
+		"/Volumes/storage/games/win10/The Sims 1 - The Complete Collection/start.exe",
+		"/Users/robin/.pdir/instagram_records.txt",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/libs/imgui/imgui.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/main.cpp",
+		"/Users/robin/projects/carpet/README.md",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/presentation.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/gui.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/settings.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/graphics.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/graphics_get.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/graphics_create.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/DrawCall.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/settings.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/graphics_misc.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/DrawCall.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/glsl/litTextured.vert",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/glsl/litTextured.frag",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/geometry.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/shadows.cpp",
+		"/Users/robin/projects/gb/final_todos.txt",
+		"/Users/robin/projects/carpet/main.go",
+		"/Users/robin/Downloads/vulkan-master/vulkan_darwin.go",
+		"/Users/robin/projects/carpet/.gitignore",
+		"/Users/robin/projects/carpet/LICENSE",
+		"/Users/robin/Downloads/sdl.go",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/glsl/lit.frag",
+		"/Users/robin/projects/gb/esp32/esp32.ino",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/ShadowMap.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/shadowMapViewer.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/shadows.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/presentation.h",
+		"/Users/robin/Downloads/cover letter notes.txt",
+		"/Users/robin/Desktop/main.go",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/geometry.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/libs/imgui/imgui_impl_vulkan.cpp",
+		"/Users/robin/Downloads/compare.py",
+		"/Users/robin/projects/image_compare/compare.py",
+		"/Users/robin/Desktop/file2c.py",
+		"/Users/robin/Desktop/file2array.py",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/main.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/.gitignore",
+		"/Applications/Parsec.app/Contents/Info.plist",
+		"/Users/robin/projects/gb/tv/notes.txt",
+		"/Users/robin/Desktop/BSc3b/y4/employment_strategy.txt",
+		"/Users/robin/Library/Application Support/Sublime Text 3/Packages/User/ClangAutoComplete.sublime-settings",
+		"/Users/robin/Library/Application Support/Sublime Text 3/Packages/ClangAutoComplete/ClangAutoComplete.py",
+		"/Users/robin/Library/Application Support/Sublime Text 3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/Users/robin/projects/musicalkeyboard/synth/synth.ino",
+		"/Users/robin/projects/musicalkeyboard/code/code.ino",
+		"/Users/robin/projects/cpp_engine/game_includer.cpp",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/glsl/shadowMap.vert",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/glsl/shadowMap.frag",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/libs/stb_image/stb_image.h",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/glsl/lit.vert",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/glsl/shadowMapViewer.vert",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/poster notes.txt",
+		"/Users/robin/Desktop/BSc3b/notes.txt",
+		"/Users/robin/projects/prices/notes.txt",
+		"/Users/robin/Desktop/shopping list.txt",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/README.md",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/LightAndShadow.sublime-project",
+		"/Users/robin/Desktop/flight refund.txt",
+		"/Volumes/storage/server/torrents/magnet.txt",
+		"/Users/robin/Downloads/pkt/links.txt",
+		"/Users/robin/Downloads/PornHub-downloader-python-master/phd.py",
+		"/Users/robin/Downloads/PornHub-downloader-python-master/functions.py",
+		"/Users/robin/Downloads/PornHub-downloader-python-master/phdler.py",
+		"/Users/robin/Desktop/file.jai",
+		"/Users/robin/Library/Application Support/Sublime Text 3/Packages/JaiTools/README.md",
+		"/Users/robin/Downloads/template README.md",
+		"/Users/robin/Downloads/sh100/README.TXT",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/libs/imgui/imgui.cpp",
+		"/Users/robin/Desktop/jai.jai",
+		"/Users/robin/Library/Application Support/Sublime Text 3/Packages/JaiTools/Jai.sublime-syntax",
+		"/Users/robin/Desktop/upper.JAI",
+		"/Users/robin/Desktop/no.jai",
+		"/Users/robin/Desktop/yes.jai",
+		"/Users/robin/Desktop/temp.jai",
+		"/Users/robin/Library/Application Support/Sublime Text 3/Packages/JaiTools/JaiCompletions.py",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/closed_file.jai",
+		"/Users/robin/Desktop/BSc3b/LightAndShadow/code/cpp/gui.h"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"record_internet_connectivity"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "record_connectivity/platform_linux.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 72,
+								"count": 6,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "record_connectivity/platform_darwin.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								907,
+								907
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1100,
+								"count": 48,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 527.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "record_connectivity/main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1233,
+								1233
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 573,
+								"count": 69,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clangautocomplete":
+	{
+		"height": 163.0
+	},
+	"output.deviot":
+	{
+		"height": 396.0
+	},
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"output.find_results":
+	{
+		"height": 394.0
+	},
+	"output.jai_results":
+	{
+		"height": 157.0
+	},
+	"output.latextools":
+	{
+		"height": 163.0
+	},
+	"pinned_build_system": "",
+	"project": "communication.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"waserv",
+				"/Volumes/storage/server/scripts_repo/waylon_socket_server.py"
+			],
+			[
+				"bmo",
+				"~/projects/cmdline/record_bmo_internet_access.py"
+			],
+			[
+				"recrd_",
+				"/Volumes/storage/server/scripts_repo/record_internet_access.py"
+			],
+			[
+				"gom",
+				"go.mod"
+			],
+			[
+				"main",
+				"code/cpp/main.cpp"
+			],
+			[
+				"drawcla",
+				"code/cpp/DrawCall.h"
+			],
+			[
+				"setting",
+				"code/cpp/settings.h"
+			],
+			[
+				"presen",
+				"code/cpp/presentation.cpp"
+			],
+			[
+				"gui",
+				"code/cpp/gui.cpp"
+			],
+			[
+				"settinh",
+				"code/cpp/settings.h"
+			],
+			[
+				"guicpp",
+				"code/cpp/gui.cpp"
+			],
+			[
+				"setth",
+				"code/cpp/settings.h"
+			],
+			[
+				"litvert",
+				"code/glsl/lit.vert"
+			],
+			[
+				"litfrag",
+				"code/glsl/lit.frag"
+			],
+			[
+				"lit",
+				"code/glsl/lit.frag"
+			],
+			[
+				"mancpp",
+				"code/cpp/main.cpp"
+			],
+			[
+				"maincpp",
+				"code/cpp/main.cpp"
+			],
+			[
+				"geoy",
+				"code/cpp/geometry.h"
+			],
+			[
+				"shadocpp",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"littextvert",
+				"code/glsl/litTextured.vert"
+			],
+			[
+				"litefr",
+				"code/glsl/litTextured.frag"
+			],
+			[
+				"lifr",
+				"code/glsl/lit.frag"
+			],
+			[
+				"graphh",
+				"code/cpp/graphics.h"
+			],
+			[
+				"grpahmisc",
+				"code/cpp/graphics_misc.cpp"
+			],
+			[
+				"dracalcpp",
+				"code/cpp/DrawCall.cpp"
+			],
+			[
+				"geom",
+				"code/cpp/geometry.cpp"
+			],
+			[
+				"shadh",
+				"code/cpp/shadows.h"
+			],
+			[
+				"drawcallh",
+				"code/cpp/DrawCall.h"
+			],
+			[
+				"prese",
+				"code/cpp/presentation.cpp"
+			],
+			[
+				"grapcrea",
+				"code/cpp/graphics_create.cpp"
+			],
+			[
+				"maicn",
+				"code/cpp/main.cpp"
+			],
+			[
+				"lifrag",
+				"code/glsl/lit.frag"
+			],
+			[
+				"guicp",
+				"code/cpp/gui.cpp"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"grpahh",
+				"code/cpp/graphics.h"
+			],
+			[
+				"mainh",
+				"code/cpp/main.h"
+			],
+			[
+				"shadows",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"settingh",
+				"code/cpp/settings.h"
+			],
+			[
+				"shadow",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"sett",
+				"code/cpp/settings.h"
+			],
+			[
+				"shado",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"present",
+				"code/cpp/presentation.cpp"
+			],
+			[
+				"litevert",
+				"code/glsl/litTextured.vert"
+			],
+			[
+				"grapmisc",
+				"code/cpp/graphics_misc.cpp"
+			],
+			[
+				"litex",
+				"code/glsl/litTextured.frag"
+			],
+			[
+				"dracllh",
+				"code/cpp/DrawCall.h"
+			],
+			[
+				"geomet",
+				"code/cpp/geometry.cpp"
+			],
+			[
+				"sha",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"drawcallcpp",
+				"code/cpp/DrawCall.cpp"
+			],
+			[
+				"graphcreat",
+				"code/cpp/graphics_create.cpp"
+			],
+			[
+				"graphcrat",
+				"code/cpp/graphics_create.cpp"
+			],
+			[
+				"graphmisc",
+				"code/cpp/graphics_misc.cpp"
+			],
+			[
+				"livert",
+				"code/glsl/lit.vert"
+			],
+			[
+				"shamaph",
+				"code/cpp/ShadowMap.h"
+			],
+			[
+				"dracallh",
+				"code/cpp/DrawCall.h"
+			],
+			[
+				"litexfrag",
+				"code/glsl/litTextured.frag"
+			],
+			[
+				"littexvert",
+				"code/glsl/litTextured.vert"
+			],
+			[
+				"geome",
+				"code/cpp/geometry.cpp"
+			],
+			[
+				"dracalh",
+				"code/cpp/DrawCall.h"
+			],
+			[
+				"mainc",
+				"code/cpp/main.cpp"
+			],
+			[
+				"pres",
+				"code/cpp/presentation.cpp"
+			],
+			[
+				"graphcreate",
+				"code/cpp/graphics_create.cpp"
+			],
+			[
+				"shadowcpp",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"shmapvert",
+				"code/glsl/shadowMap.vert"
+			],
+			[
+				"shmapfrag",
+				"code/glsl/shadowMap.frag"
+			],
+			[
+				"shampvert",
+				"code/glsl/shadowMap.vert"
+			],
+			[
+				"shaod",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"shadmafrag",
+				"code/glsl/shadowMap.frag"
+			],
+			[
+				"shadowver",
+				"code/glsl/shadowMap.vert"
+			],
+			[
+				"setinh",
+				"code/cpp/settings.h"
+			],
+			[
+				"shmapview",
+				"code/cpp/shadowMapViewer.cpp"
+			],
+			[
+				"setitnh",
+				"code/cpp/settings.h"
+			],
+			[
+				"project",
+				"LightAndShadow.sublime-project"
+			],
+			[
+				"graphcrea",
+				"code/cpp/graphics_create.cpp"
+			],
+			[
+				"grpahi",
+				"code/cpp/graphics.h"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"jcomp",
+				"JaiTools/JaiCompletions.py"
+			],
+			[
+				"close",
+				"LightAndShadow/code/closed_file.jai"
+			],
+			[
+				"clos",
+				"LightAndShadow/code/closed_file.jai"
+			],
+			[
+				"py",
+				"JaiTools/JaiCompletions.py"
+			],
+			[
+				"gotopro",
+				"JaiTools/Goto Procedure - Level 1.tmPreferences"
+			],
+			[
+				"gotoproc",
+				"JaiTools/Goto Procedure - Level 2.tmPreferences"
+			],
+			[
+				"settin",
+				"code/cpp/settings.h"
+			],
+			[
+				"sahws",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"imgui",
+				"code/libs/imgui/imgui.h"
+			],
+			[
+				"setcpp",
+				"code/cpp/settings.cpp"
+			],
+			[
+				"settih",
+				"code/cpp/settings.h"
+			],
+			[
+				"guih",
+				"code/cpp/gui.h"
+			],
+			[
+				"maih",
+				"code/cpp/main.h"
+			],
+			[
+				"shadcpp",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"shacpp",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"imguih",
+				"code/libs/imgui/imgui.h"
+			],
+			[
+				"inph",
+				"code/cpp/input.h"
+			],
+			[
+				"input",
+				"code/cpp/input.cpp"
+			],
+			[
+				"mainp",
+				"code/cpp/main.cpp"
+			],
+			[
+				"example",
+				"~/Downloads/imgui-master/examples/example_sdl_vulkan/main.cpp"
+			],
+			[
+				"exampl",
+				"~/Downloads/imgui-master/examples/example_sdl_vulkan/main.cpp"
+			],
+			[
+				"imgh",
+				"code/libs/imgui/imgui.h"
+			],
+			[
+				"imvulk",
+				"code/libs/imgui/imgui_impl_vulkan.h"
+			],
+			[
+				"maincp",
+				"code/cpp/main.cpp"
+			],
+			[
+				"grapcreat",
+				"code/cpp/graphics_create.cpp"
+			],
+			[
+				"imguh",
+				"code/libs/imgui/imgui.h"
+			],
+			[
+				".proj",
+				"LightAndShadow.sublime-project"
+			],
+			[
+				"mainpc",
+				"code/cpp/main.cpp"
+			],
+			[
+				"shampafrag",
+				"code/glsl/shadowMap.frag"
+			],
+			[
+				"shamapvert",
+				"code/glsl/shadowMap.vert"
+			],
+			[
+				"shadmapvert",
+				"code/glsl/shadowMapViewer.vert"
+			],
+			[
+				"shmap",
+				"code/glsl/shadowMap.vert"
+			],
+			[
+				"shamview",
+				"code/cpp/shadowMapViewer.cpp"
+			],
+			[
+				"shad",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"unlivert",
+				"code/glsl/unlit.vert"
+			],
+			[
+				"frag",
+				"code/glsl/shadowMap.frag"
+			],
+			[
+				"unlifra",
+				"code/glsl/unlit.frag"
+			],
+			[
+				"shamafrag",
+				"code/glsl/shadowMap.frag"
+			],
+			[
+				"shamapview",
+				"code/cpp/shadowMapViewer.cpp"
+			],
+			[
+				"drawca",
+				"code/cpp/DrawCall.cpp"
+			],
+			[
+				"shamaviewfrag",
+				"code/glsl/shadowMapViewer.frag"
+			],
+			[
+				"vert",
+				"code/glsl/shadowMap.vert"
+			],
+			[
+				"shacp",
+				"code/cpp/shadows.cpp"
+			],
+			[
+				"presencpp",
+				"code/cpp/presentation.cpp"
+			],
+			[
+				"shadmaph",
+				"code/cpp/ShadowMap.h"
+			],
+			[
+				"shah",
+				"code/cpp/shadows.h"
+			],
+			[
+				"geomh",
+				"code/cpp/geometry.h"
+			],
+			[
+				"presenh",
+				"code/cpp/presentation.h"
+			],
+			[
+				"shamapfrag",
+				"code/glsl/shadowMap.frag"
+			],
+			[
+				"scencp",
+				"code/cpp/scene.cpp"
+			],
+			[
+				"shadomavert",
+				"code/glsl/shadowMap.vert"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/gb/gb.sublime-project"
+			],
+			[
+				"gb",
+				"~/projects/gb/gb.sublime-project"
+			],
+			[
+				"jait",
+				"~/Library/Application Support/Sublime Text 3/Packages/JaiTools/JaiTools.sublime-project"
+			],
+			[
+				"jaito",
+				"~/Library/Application Support/Sublime Text 3/Packages/JaiTools/JaiTools.sublime-project"
+			],
+			[
+				"jai",
+				"~/Library/Application Support/Sublime Text 3/Packages/JaiTools/JaiTools.sublime-project"
+			],
+			[
+				"jaitoo",
+				"~/Library/Application Support/Sublime Text 3/Packages/JaiTools/JaiTools.sublime-project"
+			],
+			[
+				"pa",
+				"~/Desktop/y3/ParticleSystemsInVulkan/report/particle_report.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 60.0,
+		"last_filter": "getavinst",
+		"selected_items":
+		[
+			[
+				"getavinst",
+				"getAvailableInstanceLayers"
+			],
+			[
+				"crecorehand",
+				"createCoreHandles"
+			],
+			[
+				"setimmemrgb",
+				"setImageMemoryRGBA"
+			],
+			[
+				"setimmem",
+				"setImageMemoryRGBA"
+			],
+			[
+				"allverti",
+				"allocVertexInputInfo"
+			],
+			[
+				"crepp",
+				"createPipeline"
+			],
+			[
+				"creapip",
+				"createPipeline"
+			],
+			[
+				"crepipel",
+				"createPipeline"
+			],
+			[
+				"crepip",
+				"createPipelineLayout"
+			],
+			[
+				"creabuff",
+				"createBuffer"
+			],
+			[
+				"creadessla",
+				"createDescriptorSetLayout"
+			],
+			[
+				"creasmapl",
+				"createSampler"
+			],
+			[
+				"creadescset",
+				"createDescriptorSet"
+			],
+			[
+				"creaimag",
+				"createImage"
+			],
+			[
+				"setimmme",
+				"setImageMemoryRGBA"
+			],
+			[
+				"setimagmme",
+				"setImageMemoryRGBA"
+			],
+			[
+				"submi",
+				"submitCommandBuffer"
+			],
+			[
+				"creadescript",
+				"createDescriptorPool"
+			],
+			[
+				"credescla",
+				"createDescriptorSetLayout"
+			],
+			[
+				"creapiplayou",
+				"createPipelineLayout"
+			],
+			[
+				"creapipe",
+				"createPipeline"
+			],
+			[
+				"creadesset",
+				"createDescriptorSet"
+			],
+			[
+				"setimagmemrgba",
+				"setImageMemoryRGBA"
+			],
+			[
+				"createimage",
+				"createImage"
+			],
+			[
+				"creaimage",
+				"createImage"
+			],
+			[
+				"crecoloimag",
+				"createColorImage"
+			],
+			[
+				"creatcoloimag",
+				"createColorImage"
+			],
+			[
+				"crevec3buff",
+				"createVec3Buffer"
+			],
+			[
+				"creacolo",
+				"createColorImage"
+			],
+			[
+				"creaq",
+				"createDeviceAndQueue"
+			],
+			[
+				"getph",
+				"getPhysicalDevice"
+			],
+			[
+				"phyde",
+				"getPhysicalDevice"
+			],
+			[
+				"cmbeginrenpas",
+				"cmdBeginRenderPass"
+			],
+			[
+				"cresubpas",
+				"createSubpass"
+			],
+			[
+				"physic",
+				"getPhysicalDevice"
+			],
+			[
+				"getswa",
+				"getSwapchainImages"
+			],
+			[
+				"getio",
+				"GetIO"
+			],
+			[
+				"upper",
+				"upperfile"
+			],
+			[
+				"plotex",
+				"PlotEx"
+			],
+			[
+				"drawlist",
+				"ImDrawList"
+			],
+			[
+				"plot",
+				"PlotEx"
+			],
+			[
+				"cmtrans",
+				"cmdTransitionImageLayout"
+			],
+			[
+				"creasubpas",
+				"createSubpass"
+			],
+			[
+				"rndnefram",
+				"renderNextFrame"
+			],
+			[
+				"transila",
+				"cmdTransitionImageLayout"
+			],
+			[
+				"creaimagview",
+				"createImageView"
+			],
+			[
+				"creatimagview",
+				"createImageView"
+			],
+			[
+				"getextent",
+				"getSurfaceExtent"
+			],
+			[
+				"getdd",
+				"GetDrawData"
+			],
+			[
+				"demowindow",
+				"ShowDemoWindow"
+			],
+			[
+				"begin",
+				"Begin"
+			],
+			[
+				"shwmetri",
+				"ShowMetricsWindow"
+			],
+			[
+				"shodem",
+				"ShowDemoWindow"
+			],
+			[
+				"demo",
+				"ShowDemoWindow"
+			],
+			[
+				"creacomma",
+				"createCommandBuffer"
+			],
+			[
+				"ImGui_ImplVulkan_Init",
+				"ImGui_ImplVulkan_Init"
+			],
+			[
+				"descpool",
+				"createDescriptorPool"
+			],
+			[
+				"setbuffem",
+				"setBufferMemory"
+			],
+			[
+				"draw",
+				"DrawCall"
+			],
+			[
+				"creapipla",
+				"createPipelineLayout"
+			],
+			[
+				"addtocm",
+				"addToCmdBuffer"
+			],
+			[
+				"creades",
+				"createDescriptorSet"
+			],
+			[
+				"beginrendpass",
+				"cmdBeginRenderPass"
+			],
+			[
+				"creaimaview",
+				"createImageView"
+			],
+			[
+				"creasampl",
+				"createSampler"
+			],
+			[
+				"creaimagvie",
+				"createImageView"
+			],
+			[
+				"creavkbuff",
+				"GraphicsFoundation::createVkBuffer"
+			],
+			[
+				"founsetm",
+				"GraphicsFoundation::setMemory"
+			],
+			[
+				"crevkbuff",
+				"GraphicsFoundation::createVkBuffer"
+			],
+			[
+				"creavkb",
+				"GraphicsFoundation::createVkBuffer"
+			],
+			[
+				"mat",
+				"mat"
+			],
+			[
+				"showdem",
+				"ShowDemoWindow"
+			],
+			[
+				"fillcomm",
+				"GraphicsPipeline::fillCommandBuffer"
+			],
+			[
+				"creacomm",
+				"GraphicsPipeline::createCommandPool"
+			],
+			[
+				"submit",
+				"GraphicsPipeline::submit"
+			],
+			[
+				"gettime",
+				"getTime"
+			],
+			[
+				"getsurfex",
+				"GraphicsPipeline::getSurfaceExtent"
+			],
+			[
+				"findmeme",
+				"GraphicsPipeline::findMemoryType"
+			],
+			[
+				"findmem",
+				"findMemoryType"
+			],
+			[
+				"printque",
+				"printQueueFamilies"
+			],
+			[
+				"as",
+				"asbwe"
+			],
+			[
+				"f",
+				"func"
+			],
+			[
+				"gettile",
+				"get_tile_line"
+			],
+			[
+				"gettilelin",
+				"get_tile_line"
+			],
+			[
+				"rombinit",
+				"robingb_romb_init_additional_banks"
+			],
+			[
+				"inifirs",
+				"robingb_romb_init_first_banks"
+			],
+			[
+				"perfbank",
+				"ramb_perform_bank_control"
+			],
+			[
+				"stack",
+				"stack_pop"
+			],
+			[
+				"requ",
+				"request_interrupt"
+			],
+			[
+				"finis",
+				"finish_instruction"
+			],
+			[
+				"robgbexnex",
+				"robingb_execute_next_opcode"
+			],
+			[
+				"handinterr",
+				"handle_interrupts"
+			],
+			[
+				"exenextop",
+				"execute_next_opcode"
+			],
+			[
+				"butt4",
+				"kf_butterfly4"
+			],
+			[
+				"work",
+				"kf_work"
+			],
+			[
+				"state",
+				"kiss_fft_state"
+			],
+			[
+				"kissffall",
+				"kiss_fft_alloc"
+			],
+			[
+				"kisffall",
+				"kiss_fft_alloc"
+			],
+			[
+				"kissfftcpx",
+				"kiss_fft_cpx"
+			],
+			[
+				"kissfftcp",
+				"kiss_fft_cpx"
+			],
+			[
+				"datpbuf",
+				"tryToPopDatapointFromBuffer"
+			],
+			[
+				"dark",
+				"StyleColorsDark"
+			],
+			[
+				"font",
+				"AddFontDefault"
+			],
+			[
+				"createcont",
+				"CreateContext"
+			],
+			[
+				"getmousepos",
+				"GetMousePos"
+			],
+			[
+				"getmouse",
+				"GetMouseCursor"
+			],
+			[
+				"execbopc",
+				"execute_cb_opcode"
+			],
+			[
+				"exene",
+				"execute_next_opcode"
+			],
+			[
+				"updatimer",
+				"update_timer"
+			],
+			[
+				"handint",
+				"handle_interrupts"
+			],
+			[
+				"initimer",
+				"init_timer"
+			],
+			[
+				"updtimer",
+				"update_timer"
+			],
+			[
+				"joyp",
+				"joypad_update"
+			],
+			[
+				"memrea",
+				"mem_read"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
