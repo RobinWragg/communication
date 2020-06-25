@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 )
 
-const serverAddress = "192.168.0.51:8080"
+const serverAddress = "192.168.1.134:8080"
 const timeout = time.Second
 
 type Measurement struct {
